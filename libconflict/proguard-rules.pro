@@ -1,0 +1,2 @@
+-dontshrink
+-keep class com.sample.libconflic.PublicApi { *; }
